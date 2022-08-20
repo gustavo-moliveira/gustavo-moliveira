@@ -5,9 +5,9 @@
   <img src="https://storage.worksome.dk/covers/cover-5730c0c2cbd4b2e7bd1b8ecb6c109c34.jpg?ts=?" alt="Banner's Iury"/>
 </p>
 
-Sou um desenvolvedor apaixonado no mundo de microservices, scalability e performance. Tenho pouco tempo de mercado, pouco mais de um ano. Porém, acredito que tracei os focos dos meus estudos pelo caminho certo e considero minha trajetória um enorme desenvolvimento pessoal e profissional.
+Sou um desenvolvedor apaixonado pelo mundo de microservices, scalability e performance. Embora eu tenha pouco mais de um ano de experiência no mercado de trabalho, acredito que esse tempo foi essencial, contribuindo para o meu desenvolvimento pessoal e profissional, me auxiliando, inclusive, a traçar meus objetivos principais dentro da minha área de estudo.
 
-Nesse processo, busquei me aprofundar no mundo de orientação a objetos utilizando a linguagem Java, a qual quero me especializar. Vi a importância de Clean Code, Design Patterns, testes unitários e de integração e o mundo gigante que é uma arquitetura de software.
+Nesse processo, busquei aprofundar meus conhecimentos, utilizando majoritariamente a linguagem Java, na qual planejo fazer minha especialização. Durante minha trajetória, também pude notar a importância de Clean Code, Design Patterns, testes unitários e de integração, e pretendo ainda enriquecer ainda mais os meus conhecimentos com todos os conteúdos que o mundo gigante da arquitetura de software pode me oferecer.
 
 ## Skills
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
