@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Gustavo Moraes</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**gustavo-moliveira/gustavo-moliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://storage.worksome.dk/covers/cover-5730c0c2cbd4b2e7bd1b8ecb6c109c34.jpg?ts=?" alt="Banner's Iury"/>
+</p>
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado no mundo de microservices, scalability e performance. Tenho pouco tempo de mercado, pouco mais de um ano. Porém, acredito que tracei os focos dos meus estudos pelo caminho certo e considero minha trajetória um enorme desenvolvimento pessoal e profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nesse processo, busquei me aprofundar no mundo de orientação a objetos utilizando a linguagem Java, a qual quero me especializar. Vi a importância de Clean Code, Design Patterns, testes unitários e de integração e o mundo gigante que é uma arquitetura de software.
+
+## Skills
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![KAFKA](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RABBITMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![ELASTIC](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![JUNIT](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+## Informações
+- Atualmente trabalho em uma empresa de investimentos.
+- Estou no processo de melhoria no uso do Apache Kafka, RabbitMQ e Reactor
+
+[![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-moliveira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-moliveira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Links
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/gustavo-moraes-762260208/)
+
+
+## Repositórios
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=rest-with-springboot-and-java&theme=radical)](https://github.com/gustavo-moliveira/rest-with-springboot-and-java)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=codebank&theme=radical)](https://github.com/gustavo-moliveira/codebank)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=schedule-service&theme=radical)](https://github.com/gustavo-moliveira/schedule-service)
