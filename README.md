@@ -44,5 +44,6 @@ Nesse processo, busquei aprofundar meus conhecimentos, utilizando majoritariamen
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=codebank&theme=radical)](https://github.com/gustavo-moliveira/codebank)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=schedule-service&theme=radical)](https://github.com/gustavo-moliveira/schedule-service)
-  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=payment-kafka&theme=radical)](https://github.com/gustavo-moliveira/payment-kafka)
 </div>
