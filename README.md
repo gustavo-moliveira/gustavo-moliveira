@@ -41,7 +41,7 @@ Nesse processo, busquei aprofundar meus conhecimentos, utilizando majoritariamen
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=rest-with-springboot-and-java&theme=radical)](https://github.com/gustavo-moliveira/rest-with-springboot-and-java)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=microservices-communication&theme=radical)](https://github.com/gustavo-moliveira/codebank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=microservices-communication&theme=radical)](https://github.com/gustavo-moliveira/microservices-communication)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-moliveira&repo=schedule-service&theme=radical)](https://github.com/gustavo-moliveira/schedule-service)
 
