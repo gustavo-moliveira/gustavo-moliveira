@@ -24,8 +24,6 @@ arquiteturas escaláveis e práticas de desenvolvimento de alta qualidade.
 ![JUNIT](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-[![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-moliveira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-moliveira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
